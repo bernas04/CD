@@ -1,0 +1,507 @@
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618065602}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618065602}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618065605}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618065605}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618065605}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618065605}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618065605}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618065605}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618065608}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618065608}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618065608}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618065608}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618065608}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618065608}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618065610}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618065610}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618065615}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618065615}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618065615}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618065669}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618065669}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618065672}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618065672}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618065672}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618065672}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618065672}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618065672}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618065674}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618065674}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618065674}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618065674}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618065674}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618065674}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618065677}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618065677}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618065681}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618065682}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618065682}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618065726}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618065726}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618065729}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618065729}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618065729}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618065729}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618065729}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618065729}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618065731}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618065731}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618065731}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618065731}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618065731}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618065732}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618065734}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618065734}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618065738}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618065739}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618065739}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618065805}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618065805}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618065807}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618065807}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618065807}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618065807}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618065807}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618065808}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618065810}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618065810}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618065810}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618065810}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618065810}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618065810}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618065813}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618065813}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618065817}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618065817}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618065817}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618065888}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618065888}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618065890}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618065890}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618065890}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618065890}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618065890}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618065891}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618065893}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618065893}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618065893}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618065893}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618065893}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618065893}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618065896}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618065896}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618065900}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618065900}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618065900}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618065943}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618065943}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618065945}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618065945}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618065945}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618065945}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618065945}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618065945}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618065948}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618065948}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618065948}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618065948}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618065948}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618065948}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618065950}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618065951}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618065955}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618065955}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618065955}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618066017}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618066017}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618066019}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618066019}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618066019}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618066019}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618066019}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618066019}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618066022}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618066022}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618066022}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618066022}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618066022}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618066022}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618066024}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618066024}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618066029}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618066029}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618066029}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618066120}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618066120}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618066122}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618066122}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618066122}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618066122}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618066122}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618066122}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618066125}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618066125}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618066125}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618066125}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618066125}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618066125}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618066127}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618066127}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618066132}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618066132}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618066132}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618066225}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618066225}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618066228}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618066228}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618066228}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618066228}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618066228}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618066228}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618066230}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618066230}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618066230}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618066230}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618066230}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618066230}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618066233}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618066233}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618066237}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618066238}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618066238}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618066392}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618066393}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618066395}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618066395}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618066395}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618066395}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618066395}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618066395}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618066398}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618066398}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618066398}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618066398}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618066398}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618066398}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618066400}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618066400}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618066405}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618066405}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618066405}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618066613}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618066613}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618066668}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618066668}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618066814}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618066814}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618066816}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618066816}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618066816}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618066816}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618066816}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618066816}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618066819}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618066819}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618066819}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618066819}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618066819}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618066819}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618066821}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618066822}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618066826}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618066826}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618066826}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618066962}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618066962}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618066964}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618066964}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618066964}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618066965}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618066965}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618066965}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618066967}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618066967}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618066967}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618066967}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618066967}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618066967}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618066970}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618066970}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618066974}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618066974}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618066974}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618067038}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618067038}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618067040}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618067040}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618067040}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618067041}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618067041}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618067041}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618067043}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618067043}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618067043}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618067043}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618067043}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618067043}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618067046}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618067046}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618067050}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618067050}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618067050}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618067076}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618067076}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618067078}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618067078}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618067079}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618067079}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618067079}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618067079}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618067081}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618067081}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618067081}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618067081}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618067081}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618067081}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618067084}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618067084}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618067088}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618067088}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618067088}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618067153}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618067153}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618067290}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618067290}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618067293}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618067293}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618067293}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618067293}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618067293}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618067293}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618067295}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618067295}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618067295}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618067295}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618067295}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618067295}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618067298}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618067298}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618067302}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618067302}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618067303}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618067359}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618067359}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618067377}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618067377}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618067397}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618067397}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618067399}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618067399}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618067399}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618067399}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618067399}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618067399}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618067402}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618067402}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618067402}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618067402}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618067402}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618067402}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618067404}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618067405}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618067409}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618067409}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618067409}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618067518}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618067518}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618067520}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618067520}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618067520}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618067520}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618067520}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618067520}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618067523}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618067523}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618067523}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618067523}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618067523}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618067523}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618067525}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618067525}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618067530}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618067530}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618067530}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618067941}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618067941}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618067944}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618067944}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618067944}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618067944}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618067944}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618067944}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618067946}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618067946}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618067946}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618067946}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618067946}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618067946}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618067949}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618067949}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618067953}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618067954}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618067954}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618068022}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618068022}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618068024}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618068025}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618068025}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618068025}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618068025}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618068025}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618068027}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618068027}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618068027}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618068027}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618068027}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618068027}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618068030}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618068030}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618068034}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618068034}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618068035}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618068102}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618068102}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618068104}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618068104}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618068104}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618068104}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618068104}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618068104}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618068107}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618068107}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618068107}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618068107}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618068107}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618068107}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618068110}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618068110}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618068114}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618068114}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618068114}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618068421}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618068422}>
+DEBUG:root:CLIENT "Bar left the server
+DEBUG:root:CLIENT "Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618068424}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618068424}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618068424}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618068424}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618068424}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618068424}>
+DEBUG:root:CLIENT "Bar left the server
+DEBUG:root:CLIENT "Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618068427}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618068427}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618068427}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618068427}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618068427}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618068427}>
+DEBUG:root:CLIENT "Bar left the server
+DEBUG:root:CLIENT "Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618068429}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618068429}>
+DEBUG:root:CLIENT "Bar left the server
+DEBUG:root:CLIENT "Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618068434}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618068434}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618068434}>
+DEBUG:root:CLIENT "Bar left the server
+DEBUG:root:CLIENT "Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618068561}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618068561}>
+DEBUG:root:CLIENT Bar left the server
+DEBUG:root:CLIENT Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618068563}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618068563}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618068563}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618068563}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618068563}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618068563}>
+DEBUG:root:CLIENT Bar left the server
+DEBUG:root:CLIENT Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618068566}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618068566}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618068566}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618068566}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618068566}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618068566}>
+DEBUG:root:CLIENT Bar left the server
+DEBUG:root:CLIENT Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618068568}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618068568}>
+DEBUG:root:CLIENT Bar left the server
+DEBUG:root:CLIENT Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618068573}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618068573}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618068573}>
+DEBUG:root:CLIENT Bar left the server
+DEBUG:root:CLIENT Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618068655}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618068655}>
+DEBUG:root:CLIENT Bar left the server
+DEBUG:root:CLIENT Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618068658}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618068658}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618068658}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618068658}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618068658}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618068658}>
+DEBUG:root:CLIENT Bar left the server
+DEBUG:root:CLIENT Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618068661}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618068661}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618068661}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618068661}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618068661}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618068661}>
+DEBUG:root:CLIENT Bar left the server
+DEBUG:root:CLIENT Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618068663}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618068663}>
+DEBUG:root:CLIENT Bar left the server
+DEBUG:root:CLIENT Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618068668}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618068668}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618068668}>
+DEBUG:root:CLIENT Bar left the server
+DEBUG:root:CLIENT Foo left the server
+DEBUG:root:-------SERVER CREATED-------
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618068884}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618068884}>
+DEBUG:root:CLIENT Bar left the server
+DEBUG:root:CLIENT Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Olá Mundo", "ts": 1618068886}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hello World", "ts": 1618068886}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse How are you?", "ts": 1618068886}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Are you new around here?", "ts": 1618068886}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Hope you enjoy your stay", "ts": 1618068886}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse You are awesome!", "ts": 1618068886}>
+DEBUG:root:CLIENT Bar left the server
+DEBUG:root:CLIENT Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618068889}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Welcome aboard", "ts": 1618068889}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Who are you?", "ts": 1618068889}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I'm Joe", "ts": 1618068889}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Bar disse Nice to meet you Joe", "ts": 1618068889}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Cya around", "ts": 1618068889}>
+DEBUG:root:CLIENT Bar left the server
+DEBUG:root:CLIENT Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello!", "ts": 1618068891}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse no one is here...", "channel": "#cd", "ts": 1618068891}>
+DEBUG:root:CLIENT Bar left the server
+DEBUG:root:CLIENT Foo left the server
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Hello darkness, my old friend", "channel": "#c1", "ts": 1618068896}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse I've come to talk with you again", "channel": "#c2", "ts": 1618068896}>
+DEBUG:root:received "<bound method TextMessage.__repr__ of {"command": "message", "message": "Foo disse Because a vision softly creeping", "channel": "#c1", "ts": 1618068896}>
+DEBUG:root:CLIENT Bar left the server
+DEBUG:root:CLIENT Foo left the server
